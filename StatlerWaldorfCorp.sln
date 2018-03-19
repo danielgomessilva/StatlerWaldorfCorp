@@ -7,9 +7,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DAEBBAB5-07D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{1D0EB555-293C-48AD-8DC2-686A0FA550F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService", "StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{4AC56758-26A5-40F6-AFF2-92282119DD09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService", "StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{4AC56758-26A5-40F6-AFF2-92282119DD09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService.Tests", "StatlerWaldorfCorp.TeamService.Tests\StatlerWaldorfCorp.TeamService.Tests.csproj", "{FD5A2BC0-0FD4-4500-A5AD-FB3D22CF1C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService.Tests", "StatlerWaldorfCorp.TeamService.Tests\StatlerWaldorfCorp.TeamService.Tests.csproj", "{FD5A2BC0-0FD4-4500-A5AD-FB3D22CF1C72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A7909DC-AEC1-4E11-98FD-D6D932FBF171}"
+	ProjectSection(SolutionItems) = preProject
+		wercker.yml = wercker.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

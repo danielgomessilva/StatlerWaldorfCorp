@@ -9529,11 +9529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\StatlerWaldorfCorp.TeamService.Tests.csproj",
+      "projectUniqueName": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\StatlerWaldorfCorp.TeamService.Tests.csproj",
       "projectName": "StatlerWaldorfCorp.TeamService.Tests",
-      "projectPath": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\StatlerWaldorfCorp.TeamService.Tests.csproj",
+      "projectPath": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\StatlerWaldorfCorp.TeamService.Tests.csproj",
       "packagesPath": "C:\\Users\\Daniel Gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\obj\\",
+      "outputPath": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9552,8 +9552,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj": {
-              "projectPath": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj"
+            "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj": {
+              "projectPath": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj"
             }
           }
         }

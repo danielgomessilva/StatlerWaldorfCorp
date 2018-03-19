@@ -20,3 +20,14 @@ C:\TCC\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0
 C:\TCC\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
 C:\TCC\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.dll
 C:\TCC\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.pdb
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.deps.json
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.runtimeconfig.json
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.dll
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.pdb
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.csprojResolveAssemblyReference.cache
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.csproj.CoreCompileInputs.cache
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.dll
+C:\TCC\test\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.pdb

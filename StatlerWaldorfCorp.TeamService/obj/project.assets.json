@@ -8089,11 +8089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj",
+      "projectUniqueName": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj",
       "projectName": "StatlerWaldorfCorp.TeamService",
-      "projectPath": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj",
+      "projectPath": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj",
       "packagesPath": "C:\\Users\\Daniel Gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\TCC\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\obj\\",
+      "outputPath": "C:\\TCC\\test\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
