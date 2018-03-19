@@ -1,5 +1,6 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace StatlerWaldorfCorp.TeamService.Models
 {
@@ -8,13 +9,13 @@ namespace StatlerWaldorfCorp.TeamService.Models
         public string Name { get; set; }
         public Guid Id { get; set; }
         public ICollection<Member> Members { get; set; }
-        
+
         public Team()
         {
             Members = new List<Member>();
         }
         public Team(string name)
-            : this()
+            :this()
         {
             Name = name;
         }

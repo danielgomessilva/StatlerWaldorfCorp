@@ -1,4 +1,6 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace StatlerWaldorfCorp.TeamService.Models
 {
@@ -8,7 +10,7 @@ namespace StatlerWaldorfCorp.TeamService.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public Member()
+        public  Member()
         {
 
         }
@@ -24,10 +26,6 @@ namespace StatlerWaldorfCorp.TeamService.Models
         {
             FirstName = firstName;
             LastName = lastName;
-        }
-        public override string ToString()
-        {
-            return LastName;
         }
     }
 }
