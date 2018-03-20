@@ -28,6 +28,21 @@ build:
         code: |
           dotnet test
     - script:
+        name: integration-test-restore
+        cwd: StatlerWaldorfCorp.TeamService.Tests.Integration
+        code: |
+          dotnet restore
+    - script:
+        name: integration-test-build
+        cwd: StatlerWaldorfCorp.TeamService.Tests.Integration
+        code: |
+          dotnet build
+    - script:
+        name: integration-test-run
+        cwd: StatlerWaldorfCorp.TeamService.Tests.Integration
+        code: |
+          dotnet test
+    - script:
         name: copy binary
         cwd: StatlerWaldorfCorp.TeamService.Tests
         code: |
