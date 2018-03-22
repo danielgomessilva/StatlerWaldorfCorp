@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD:test/StatlerWaldorfCorp.TeamService.Tests/StatlerWaldorfCorp.TeamService.Tests.csproj
+    <ProjectReference Include="../../src/StatlerWaldorfCorp.TeamService/StatlerWaldorfCorp.TeamService.csproj"/>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.6.1" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
+=======
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.6.1" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj" />
+>>>>>>> parent of 47d2057... new form them:StatlerWaldorfCorp.TeamService.Tests/StatlerWaldorfCorp.TeamService.Tests.csproj
+  </ItemGroup>
+
+</Project>
